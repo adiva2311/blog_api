@@ -1,7 +1,7 @@
 
 # Blog Post RESTful API
 
-A simple RESTful API for managing blog posts using Node.js, Express, Sequelize, and a SQL database.
+A simple RESTful API for managing blog posts using Node.js, Express, Sequelize, and PostgreSQL.
 
 
 ## Features
@@ -9,7 +9,7 @@ A simple RESTful API for managing blog posts using Node.js, Express, Sequelize, 
 - CRUD operations (Create, Read, Update, Delete) for blog posts
 - Input validation
 - Error handling
-- Sequelize ORM with MySQL/PostgreSQL
+- Sequelize ORM with PostgreSQL
 - Environment variable support with `.env`
 
 ## Tech Tools
